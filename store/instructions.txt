@@ -1,0 +1,10 @@
+set id 1
+get id
+set name ajay
+get name
+set name kumar
+get name
+set surname gonugunta
+get surname
+delete name
+get name
